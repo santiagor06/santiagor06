@@ -4,7 +4,8 @@
 <img height="350" width="100%" src="./SantiagoRestrepo.png" />
 
 <h3 align="left">📄 Know about my:</h3>
-• I am a Full Stack Developer with experience working in NodeJS, React, Redux, and SQL among other technologies in the industry. 
+• I am a Full Stack Developer with experience working in NodeJS, React, Redux, and SQL among other technologies in the industry.  
+
 
 • I started my professional career as a sound engineer and through it I discovered my interest in programming, using programming languages like JUCE/C++ and MATLAB for digital signal processing.
 
