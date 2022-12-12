@@ -6,7 +6,6 @@
 <h3 align="left">📄 Know about my:</h3>
 • I am a Full Stack Developer with experience working in NodeJS, React, Redux, and SQL among other technologies in the industry.           
 
-
 • I started my professional career as a sound engineer and through it I discovered my interest in programming, using programming languages like JUCE/C++ and MATLAB for digital signal processing.
 
 • At the end of my undergraduate, I decided that I wanted to strengthen my skills as a programmer focusing on web development, that is how I entered the Henry bootcamp where I enhanced my theoretical and practical knowledge and got my title as Full Stack Web Developer. 
