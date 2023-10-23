@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate fullstack web developer🚀</h3>
-<img height="350" width="100%" src="./SantiagoRestrepo.png" />
+
 
 <h3 align="left">📄 Know about my:</h3>
 • I am a Full Stack Developer with experience working in NodeJS, React, Redux, and SQL among other technologies in the industry.           
